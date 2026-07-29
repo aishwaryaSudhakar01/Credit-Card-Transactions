@@ -1,7 +1,7 @@
 # Credit Card Transactions Analysis
 
 ![Project Image](https://github.com/aishwaryaSudhakar01/Credit-Card-Transaction-Trends/assets/126569607/8af2c6ad-6f10-473c-98e0-0f7f0a4e8724)
-Dataset Link: [Credit Card Transactions](https://lnkd.in/d6ZTY2fQ)
+Dataset Link: [Credit Card Spending Habits in India](https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india)
 
 IDE: BigQuery
 
